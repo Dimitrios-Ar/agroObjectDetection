@@ -1,6 +1,8 @@
 # Semester project - Object detection in agricultural environment
 ### Report can be found on files or online here: https://drive.google.com/file/d/12gkcoYX8QvJfVZ3jbeg8iklrug8QqA7b/view?usp=share_link
 
+### Zero-shot visual tests on Farming Simulator game (algorithm only trained on few thousand real-world images) https://drive.google.com/file/d/1jUUx35hqxCVgnxm7DZ9szLKYdwQfjUz-/view?usp=share_link
+
 ## Yolov3 and TinyYolov3 for Linux
 ### This repository is based on https://github.com/AlexeyAB/darknet and https://github.com/AlexeyAB/darknet
 
